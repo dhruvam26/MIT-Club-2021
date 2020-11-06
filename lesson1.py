@@ -41,5 +41,4 @@ boolX = False
 print('I made the string "' + strX + '"')
 print(intX + 4 * 3 - 2 / 1 )
 print(floatX + 4.3 * 3.2 - 2.1 / 1.0)
-print(boolX)
-
+print(boolX)  
