@@ -1,1 +1,5 @@
-import NovSix.py
+# import SummaryOfLessonOne
+# import WorkMadeOnTheSpotForLessonOne
+
+#import SummaryOfLessonTwo
+import WorkMadeOnTheSpotForLessonTwo
