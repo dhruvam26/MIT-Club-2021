@@ -2,4 +2,7 @@
 # import WorkMadeOnTheSpotForLessonOne
 
 #import SummaryOfLessonTwo
-import WorkMadeOnTheSpotForLessonTwo
+#import WorkMadeOnTheSpotForLessonTwo
+
+import SummaryOfLessonThree
+#import WorkMadeOnTheSpotForLessonThree
