@@ -5,4 +5,10 @@
 #import WorkMadeOnTheSpotForLessonTwo
 
 #import SummaryOfLessonThree
-import WorkMadeOnTheSpotForLessonThree
+#import WorkMadeOnTheSpotForLessonThree
+
+#import SummaryOfLessonFour
+#import WorkMadeOnTheSpotForLessonFour
+
+#import SummaryOfLessonFive
+import WorkMadeOnTheSpotForLessonFive
