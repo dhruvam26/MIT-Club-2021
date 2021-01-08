@@ -11,4 +11,7 @@
 #import WorkMadeOnTheSpotForLessonFour
 
 #import SummaryOfLessonFive
-import WorkMadeOnTheSpotForLessonFive
+#import WorkMadeOnTheSpotForLessonFive
+
+#import SummaryOfLessonSix
+import WorkMadeOnTheSpotForLessonSix
